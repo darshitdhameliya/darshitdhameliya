@@ -1,16 +1,63 @@
-### Hi there 👋
+<img src="./assets/Banner.png">
 
-<!--
-**darshitdhameliya/darshitdhameliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> 
+<img src="./assets/Name.svg" width="600px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px"></h1>
 
-Here are some ideas to get you started:
+<p align='center'>
+I'm Darshit Dhameliya from Halifax, Canada.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=darshitdhameliya.darshitdhameliya&"  />
+</div>
+
+### 
+
+<h3 align="left">👩‍💻  About Me</h3>
+<hr>
+
+###
+
+<p align="left">
+- 🔭 I’m working as Freelancer<br>
+- 📚 I'm currently pursuing Masters in Applied Computer Science from Dalhousie University<br>
+- 🔭 I’m currently working on ...<br>
+- 🌱 I’m currently learning ...<br>
+- 👯 I’m looking to collaborate on ...<br>
+- 🤔 I’m looking for help with ...<br>
+- 💬 Ask me about ...<br>
+- 📫 How to reach me: ...<br>
+</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+<hr>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=darshitdhameliya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  Projects</h3>
+<hr>
+
+###
+
+- [Shivani Clinic](https://shivaniskinclinic.com)
+- [SpotSaas](https://spotsaas.com)
+- [Belief Rubber Pvt Ltd](https://play.google.com/store/apps/details?id=darshit.apps.beliefrubber&hl=en_CA&gl=US)
+
+
+
